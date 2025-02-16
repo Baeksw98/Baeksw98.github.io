@@ -1,5 +1,6 @@
-Baek S, Park S, Kim K
-Application of Network Analysis and Association Rule Mining for visualizing the Lymph Node Metastasis Patterns in Esophageal Squamous Cell Carcinoma
-Scientific Reports 2024
-URL: Not Yet Published
-DOI: Not Yet Published
+Baek, S., Kim, K., Park, S.Y. et al. 
+Application of network analysis and association rule mining for visualizing the lymph node metastasis patterns in esophageal squamous cell carcinoma. 
+Sci Rep 15, 5415 (2025). 
+URL: https://www.nature.com/articles/s41598-025-89340-2#citeas
+DOI: 10.1038/s41598-025-89340-2
+
